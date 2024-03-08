@@ -1,34 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Estilos por defecto, para pantallas de 500px o más */
-        .contenido-desktop {
-            display: block; /* Se muestra por defecto */
-        }
-
-        .contenido-movil {
-            display: none; /* Se oculta por defecto */
-        }
-
-        /* Media query para pantallas menores de 500px */
-        @media (max-width: 500px) {
-            .contenido-desktop {
-                display: none; /* Se oculta en pantallas pequeñas */
-            }
-
-            .contenido-movil {
-                display: block; /* Se muestra en pantallas pequeñas */
-            }
-        }
-    </style>
-</head>
-<body>
-
-<div class="contenido-desktop">
-    <p>
         
 ░░░░░░░░░░░░░░░░░░░░░░░▄▀▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄▄▄▄▄▄░░░░░░░░░  
 ░░░░░░░░░░░░░░░░░░░░░▄▀░░▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▀▀▀░░░░░░░▀▄░░░░░░░  
@@ -50,38 +19,4 @@
 JuanFDJ73/JuanFDJ73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-    </p>
-</div>
 
-<div class="contenido-movil">
-    <p>
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░▄▄▄▄▄▄▄░░░░░░░░░
-░░░░░░░░░▄▀▀▀░░░░░░░▀▄░░░░░░░
-░░░░░░░▄▀░░░░░░░░░░░░▀▄░░░░░░
-░░░░░░▄▀░░░░░░░░░░▄▀▀▄▀▄░░░░░
-░░░░▄▀░░░░░░░░░░▄▀░░██▄▀▄░░░░
-░░░▄▀░░▄▀▀▀▄░░░░█░░░▀▀░█▀▄░░░
-░░░█░░█▄▄░░░█░░░▀▄░░░░░▐░█░░░
-░░▐▌░░█▀▀░░▄▀░░░░░▀▄▄▄▄▀░░█░░
-░░▐▌░░█░░░▄▀░░░░░░░░░░░░░░█░░
-░░▐▌░░░▀▀▀░░░░░░░░░░░░░░░░▐▌░
-░░▐▌░░░░░░░░░░░░░░░▄░░░░░░▐▌░
-░░▐▌░░░░░░░░░▄░░░░░█░░░░░░▐▌░
-░░░█░░░░░░░░░▀█▄░░▄█░░░░░░▐▌░
-░░░▐▌░░░░░░░░░░▀▀▀▀░░░░░░░▐▌░
-░░░░█░░░░░░░░░░░░░░░░░░░░░█░░
-░░░░▐▌▀▄░░░░░░░░░░░░░░░░░▐▌░░
-░░░░░█░░▀░░░░░░░░░░░░░░░░▀░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-<!---
-JuanFDJ73/JuanFDJ73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-    </p>
-</div>
-
-</body>
-</html>
