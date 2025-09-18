@@ -42,6 +42,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
+<!-- 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFDJ73&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFDJ73&layout=compact)-->
